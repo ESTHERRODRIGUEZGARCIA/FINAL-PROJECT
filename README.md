@@ -1,6 +1,6 @@
 # FINAL PROJECT - CLASSIFICATION
 
-In this [repository](https://github.com/ESTHERRODRIGUEZGARCIA/FINAL-PROJECT.git) the final IRONHACK project is resolved.
+The final IRONHACK project is resolved in this [repository](https://github.com/ESTHERRODRIGUEZGARCIA/FINAL-PROJECT.git) .
 
 Project made by:
 1. [Esther Rodríguez García](https://github.com/ESTHERRODRIGUEZGARCIA)
