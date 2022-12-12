@@ -9,3 +9,7 @@ Proyecto realizado por:
 - Detailed definition of the project:
 
 We have used logistic regression to understand the demographics and other characteristics of bank customers' that accept a credit card offer and that do not accept a credit card.
+
+* Methodology used to build the model:
+
+* Repository structure:
