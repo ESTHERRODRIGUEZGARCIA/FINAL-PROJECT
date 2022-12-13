@@ -11,9 +11,16 @@ Project made by:
   
       ->analysis: 
       
-      ->data: 
+          data-analysis: code
+          
+          data_cleaning: code cleaning the first dataset
       
-      ->questions
+      ->data: 
+          Both datasets
+      
+      ->questions: 
+        
+          Here are the answers to the proposed questions
 
 * Objective: 
 
