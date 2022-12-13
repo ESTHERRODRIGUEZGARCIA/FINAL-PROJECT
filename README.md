@@ -11,7 +11,7 @@ Project made by:
   
       ->analysis: 
       
-          data-analysis: code
+          data-analysis: code building the model
           
           data_cleaning: code cleaning the first dataset
       
@@ -20,7 +20,7 @@ Project made by:
       
       ->questions: 
         
-          Here are the answers to the proposed questions
+          Answers to the proposed questions
 
 * Objective: 
 
