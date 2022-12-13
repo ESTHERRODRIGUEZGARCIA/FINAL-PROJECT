@@ -7,7 +7,13 @@ Project made by:
 2. [Teresa Álvarez de Portugal](https://github.com/tereesaalvarez)
 
 * Repository structure:
-
+  -> PROYECTO FINAL
+  
+      ->analysis: 
+      
+      ->data: 
+      
+      ->questions
 
 * Objective: 
 
