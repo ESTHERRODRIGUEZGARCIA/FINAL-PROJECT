@@ -32,3 +32,5 @@ We have used logistic regression to understand the demographics and other charac
 
 * Methodology used to build the model:
 
+We have carried out all the proposed laboratories, to finally carry out this final project.
+
