@@ -35,3 +35,4 @@ We have used logistic regression to understand the demographics and other charac
 
 We have carried out all the proposed laboratories, to finally carry out this final project.
 
+![image](https://user-images.githubusercontent.com/91721860/207415538-c584c93f-7fc6-45dd-a2cf-de1bdf9784db.png)
